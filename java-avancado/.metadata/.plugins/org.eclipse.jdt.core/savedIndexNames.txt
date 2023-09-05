@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/aldo/cursos/java/softblue/java-avancado/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+656521696.index

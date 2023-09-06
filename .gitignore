@@ -1,0 +1,4 @@
+# Arquivos java .class
+*.class
+
+java-avancado/.metadata/

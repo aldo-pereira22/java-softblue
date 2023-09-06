@@ -2,3 +2,7 @@
 *.class
 
 java-avancado/.metadata/
+java-avancado/.metadata/
+java-avancado/.metadata/.plugins/
+java-avancado/.metadata/.log
+java-avancado/MeuProjetoMaven/target/
